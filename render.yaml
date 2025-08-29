@@ -42,5 +42,3 @@ databases:
   - name: n8n-db
     # plano compute — exemplo equivalente ao antigo starter
     plan: basic-1gb
-    # define storage (separado do compute)
-    storageGB: 5
